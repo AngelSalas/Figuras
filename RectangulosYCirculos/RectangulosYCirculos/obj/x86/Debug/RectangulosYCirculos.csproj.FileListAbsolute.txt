@@ -1,0 +1,8 @@
+C:\Users\Angel\Desktop\POO\RectangulosYCirculos\RectangulosYCirculos\bin\Debug\RectangulosYCirculos.exe
+C:\Users\Angel\Desktop\POO\RectangulosYCirculos\RectangulosYCirculos\bin\Debug\RectangulosYCirculos.pdb
+C:\Users\Angel\Desktop\POO\RectangulosYCirculos\RectangulosYCirculos\obj\x86\Debug\RectangulosYCirculos.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\POO\RectangulosYCirculos\RectangulosYCirculos\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Angel\Desktop\POO\RectangulosYCirculos\RectangulosYCirculos\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Angel\Desktop\POO\RectangulosYCirculos\RectangulosYCirculos\obj\x86\Debug\RectangulosYCirculos.csproj.GenerateResource.Cache
+C:\Users\Angel\Desktop\POO\RectangulosYCirculos\RectangulosYCirculos\obj\x86\Debug\RectangulosYCirculos.exe
+C:\Users\Angel\Desktop\POO\RectangulosYCirculos\RectangulosYCirculos\obj\x86\Debug\RectangulosYCirculos.pdb
