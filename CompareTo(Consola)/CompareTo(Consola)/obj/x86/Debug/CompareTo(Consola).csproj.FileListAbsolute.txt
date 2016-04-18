@@ -1,0 +1,4 @@
+F:\CompareTo(Consola)\CompareTo(Consola)\bin\Debug\CompareTo(Consola).exe
+F:\CompareTo(Consola)\CompareTo(Consola)\bin\Debug\CompareTo(Consola).pdb
+F:\CompareTo(Consola)\CompareTo(Consola)\obj\x86\Debug\CompareTo(Consola).exe
+F:\CompareTo(Consola)\CompareTo(Consola)\obj\x86\Debug\CompareTo(Consola).pdb
